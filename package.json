@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.17.1",
@@ -19,6 +20,7 @@
     "react-markdown": "^9.0.1",
     "react-router-dom": "^6.27.0",
     "react-type-animation": "^3.2.0"
+    
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
