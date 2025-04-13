@@ -1,6 +1,3 @@
-# Lama Dev AI Chat Bot App Starter Setup
-
-This template provides a minimal setup to get React 19 working in Vite with HMR and some ESLint rules."# ZenAI-New-" 
-"# ZEN-AI-1-" 
-"# ZenAI" 
-"# ZEN-AI-1-" 
+Developed an advanced conversational AI platform leveraging Node.js, Express, React, and MongoDB,
+incorporating seamless integration with the Gemini API for natural language processing and contextual
+understanding and authenticated using Clerk
